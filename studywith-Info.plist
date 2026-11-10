@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>作業中に Apple Music のプレイリストを再生し、休憩中は一時停止するために使います。</string>
+	<key>NSAlarmKitUsageDescription</key>
+	<string>ポモドーロの残り時間をロック画面と Dynamic Island に表示し、時間になったらお知らせするために使います。</string>
+</dict>
+</plist>
