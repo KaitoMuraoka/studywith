@@ -1,5 +1,5 @@
 import Foundation
-import MusicKit
+@preconcurrency import MusicKit
 import Observation
 
 /// Apple Music まわりの処理をまとめたクラス。
